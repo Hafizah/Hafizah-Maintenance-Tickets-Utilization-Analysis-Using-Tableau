@@ -1,7 +1,7 @@
 # Maintenance Codes Utilization
 
 
-Business Problem:
+**Business Problem:**
 During the performance evaluation process, the client noticed that a few of their worst
 performing field technicians had made remarkable improvements in their Repeat
 measurement. A field technician receives a Repeat when they complete a service order and the
@@ -15,7 +15,7 @@ assume that they are intentionally manipulating their performance scores.
 The client uses a system of points as a measure of time on the job. The time on the job is calculated as
 the completion time – the arrival time and one point is equal to five minutes.
 
-The Ask: 
+**The Ask:**
 Provide a Tableau dashboard including the following:
 A line graph of the total number of work orders by week
 A histogram of the Time on Job of all work orders measured in points. 
