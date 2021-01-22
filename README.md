@@ -1,7 +1,7 @@
-# Maintenance Codes Utilization
+#Maintenance Codes Utilization
 
 
-**Business Problem:**
+##Business Problem:
 
 Based on the company's performance evaluation process, find the top 10 technicians that violated the maintaineance code rules.
 
@@ -21,5 +21,5 @@ analysis.
 7. A description of your findings. The section should include your tables, charts,
 and any additional summary statistics.
 
-**Recommendations** <br> Provide a summary of recommendations. 
+**Recommendations:** <br> Provide a summary of recommendations. 
 
