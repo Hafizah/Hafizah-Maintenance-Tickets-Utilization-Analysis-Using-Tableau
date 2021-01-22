@@ -2,18 +2,8 @@
 
 
 **Business Problem:**
-During the performance evaluation process, the client noticed that a few of their worst
-performing field technicians had made remarkable improvements in their Repeat
-measurement. A field technician receives a Repeat when they complete a service order and the
-customer’s issue is not resolved, thus resulting in a second service order within 30 days for the
-same customer. The client suspects that technicians are purposefully utilizing maintenance
-codes, which are filtered for Repeats, to close their work orders, thus shielding themselves from
-Repeats. Through your investigation, you discover that technicians, if they are following the
-correct process, must create an escalation work order for the maintenance organization. If they
-do not create the maintenance ticket, they are not following the process, thus it is fair to
-assume that they are intentionally manipulating their performance scores.
-The client uses a system of points as a measure of time on the job. The time on the job is calculated as
-the completion time – the arrival time and one point is equal to five minutes.
+
+Based on the company's performance evaluation process, find the top 10 technicians that violated the maintaineance code rules.
 
 **The Ask:**
 Provide a Tableau dashboard including the following:
