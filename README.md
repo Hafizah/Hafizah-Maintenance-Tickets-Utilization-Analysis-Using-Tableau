@@ -22,4 +22,5 @@ and any additional summary statistics.
 
 ## Conclusion: <br> 
 Provide a summary of recommendations. 
+Update ------ Alternative solution to previously mentioned recommendation is to streamline the manual data entry of work order records by investing in property management software.
 
